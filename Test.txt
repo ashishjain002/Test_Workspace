@@ -4,4 +4,8 @@ hi this is ashish jain hi
 hi this is ashish
 
 nsdkjc s dcjk
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
+>>>>>>> refs/remotes/origin/master
 >>>>>>> origin/master

@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 hi this is ashish jain hi
-=======
-hi this is ashish
-
 nsdkjc s dcjk
->>>>>>> refs/remotes/origin/master
